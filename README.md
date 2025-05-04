@@ -52,15 +52,3 @@ https://github.com/user-attachments/assets/92c0a9ca-7c78-49dc-ae9b-c831c3a2ee99
 ## 📂 Dataset
 
 Used the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease), preprocessed and cleaned for optimal model performance.
-
----
-
-## 📦 Setup & Usage
-
-### 🧪 Run locally (dev mode)
-
-**Backend (Flask):**
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
