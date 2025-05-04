@@ -45,7 +45,7 @@ A full-stack machine learning web application that predicts the risk of heart di
 
 ## 📷 Preview
 
-![Heart Disease Prediction Demo](preview.png) <!-- Replace with your screenshot -->
+https://github.com/user-attachments/assets/92c0a9ca-7c78-49dc-ae9b-c831c3a2ee99
 
 ---
 
