@@ -45,7 +45,7 @@ A full-stack machine learning web application that predicts the risk of heart di
 
 ## 📷 Preview
 
-https://github.com/user-attachments/assets/92c0a9ca-7c78-49dc-ae9b-c831c3a2ee99
+https://github.com/user-attachments/assets/55d38d0e-9745-404f-b389-eb148fbd76fe
 
 ---
 
